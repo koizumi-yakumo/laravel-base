@@ -1,0 +1,7 @@
+# service files
+services/service/*
+!services/service/.gitkeep
+
+# mysql-master
+docker/mysql-master/var/lib/mysql/*
+!docker/mysql-master/var/lib/mysql/.gitkeep
