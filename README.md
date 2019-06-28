@@ -38,6 +38,7 @@ Laravel で開発を始める時の手助けになるような構成をほぼコ
 
 * [Dockerを使ってLaravel開発環境構築](https://qiita.com/A-Kira/items/1c55ef689c0f91420e81)
 * [docker-composeでMaster/Slave構成のMySQLを手に入れる](https://qiita.com/takyam/items/f13bc4a1db0433ffb958)
+* [docker-compose で MySQL レプリケーション環境をサクッと用意する](https://ngyuki.hatenablog.com/entry/2019/02/18/103036)
 
 上記まとめてくださった皆様。
 ありがとうございます。
